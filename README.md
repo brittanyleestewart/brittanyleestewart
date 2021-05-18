@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @brittanyleestewart
 - 👀 I’m interested in agile testing and test automation
-- 🌱 I’m currently learning javascript
+- 🌱 I’m currently learning test automation
 - 📫 How to reach me: Email me at bstewart@qualityworkscg.com
 
 <!---
